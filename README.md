@@ -8,3 +8,5 @@ text
 - is
 - a
 - list
+##adding an image
+![This is an image](https://github.com/cespejo15/EE322/blob/main/Half_Adder_CMDprompt.PNG)
