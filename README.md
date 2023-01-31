@@ -1,5 +1,5 @@
 text
-# Large heading
+# EE322: Engineering Design VI
 ###### Small heading
 **Bold**
 *Italic*
