@@ -5,7 +5,7 @@ After GHDL and GTKWave were working properly, I tried a couple of the examples a
 # Half Adder Example
 ![Half Adder Capture](https://github.com/cespejo15/EE322/blob/main/Lab1/Half_Adder.PNG)
 ### Command Prompt for Half Adder
-![Half Adder Command Prompt Capture](https://github.com/cespejo15/EE322/blob/Lab1/main/Half_Adder_CMDprompt.PNG)
+![Half Adder Command Prompt Capture](https://github.com/cespejo15/EE322/blob/main/Lab1/Half_Adder_CMDprompt.PNG)
 
 # D Flip-flop Example
 ![D Flip-flop Capture](https://github.com/cespejo15/EE322/blob/main/Lab1/D%20Flip-flop.PNG)
