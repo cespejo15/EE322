@@ -1,7 +1,7 @@
 After GHDL and GTKWave were installed, I tried a couple of the examples as shown below (I had to click on each signal to show them on the interface and also zoom out on each example to get the correct time interval):
 
 # Half Adder Example
-![Half Adder Capture](https://github.com/cespejo15/EE322/Lab1/blob/main/Half_Adder.PNG)
+![Half Adder Capture](https://github.com/cespejo15/EE322/blob/Lab1/main/Half_Adder.PNG)
 ### Command Prompt for Half Adder
 ![Half Adder Command Prompt Capture](https://github.com/cespejo15/EE322/blob/main/Half_Adder_CMDprompt.PNG)
 
