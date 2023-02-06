@@ -47,3 +47,9 @@ $ uname -a prints my operating system as well as the kernel name, system's node 
 
 $ ifconfig is used to assign an address to a network interface and to configure or display the current network interface configuration information. Windows does not have this command but a similar command it uses is "ipconfig". It displays the following:
 ![$ifconfig terminal capture](https://github.com/cespejo15/EE322/blob/main/Lab2/$ifconfig.PNG)
+
+$ ping localhost pings the local IP address of the local computer address as shown below:
+![$ping localhost terminal capture](https://github.com/cespejo15/EE322/blob/main/Lab2/$ping localhost.PNG)
+
+$ netstat shows network status and protocol statistics as shown below:
+![$netstat terminal capture](https://github.com/cespejo15/EE322/blob/main/Lab2/$netstat.PNG)
