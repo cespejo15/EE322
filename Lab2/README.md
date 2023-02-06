@@ -49,7 +49,7 @@ $ ifconfig is used to assign an address to a network interface and to configure 
 ![$ifconfig terminal capture](https://github.com/cespejo15/EE322/blob/main/Lab2/$ifconfig.PNG)
 
 $ ping localhost pings the local IP address of the local computer address as shown below:
-![$ping localhost terminal capture](https://github.com/cespejo15/EE322/blob/main/Lab2/$ping localhost.PNG)
+![$ping localhost terminal capture](https://github.com/cespejo15/EE322/blob/main/Lab2/%24ping%20localhost.PNG)
 
 $ netstat shows network status and protocol statistics as shown below:
 ![$netstat terminal capture](https://github.com/cespejo15/EE322/blob/main/Lab2/$netstat.PNG)
