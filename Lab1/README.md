@@ -1,3 +1,4 @@
+# Lab 1 #
 I followed the instructions provided to install GHDL and GTKwave and afterwards, I tried running the "ghdl" command only to come across an error that the command was not recognized. After some research, I found that I had to copy the bin directories of the GHDL and GTKwave folders to my PATH system variable. Only after this was done was I able to run the commands. I discovered that some fellow classmates also encountered this issue so I made sure to assist when necessary.
 
 After GHDL and GTKWave were working properly, I tried a couple of the examples as shown below (I had to click on each signal to show them on the interface and also zoom out on each example to get the correct time interval):
