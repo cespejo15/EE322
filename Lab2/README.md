@@ -28,7 +28,7 @@ $ mkdir demo creates a directory named "demo"
 $ cd demo command moves me into the "demo" directory that I just created. So, my current directory changes to: **C:\Users\cesar\OneDrive - stevens.edu\Spring 2023 (3rd Year)\EE-322 D6\Lab2\iot\demo**
 
 $ nano file creates a file named "file" and allows you to edit the text in it as shown below:
-![$df terminal capture](https://github.com/cespejo15/EE322/blob/main/Lab2/$nano file.PNG)
+![$df terminal capture](https://github.com/cespejo15/EE322/blob/main/Lab2/%24nano%20file.PNG)
 
 $ cat file prints the content of "file" that I edited into it: **This is for Lab 2.**
 
