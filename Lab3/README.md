@@ -8,4 +8,5 @@ This command changes my directory to the lesson 3 folder within the iot folder.
 
 $ python3 julian.py
 This command outputs the following:
+
 ![$julian.py terminal capture](https://github.com/cespejo15/EE322/blob/main/Lab3/julianpy.PNG)
