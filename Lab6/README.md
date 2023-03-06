@@ -34,3 +34,15 @@ The terminal then displays the following after refreshing:
 ![$http terminal capture](https://github.com/cespejo15/EE322/blob/main/Lab6/httpterminal.PNG)
 
 
+For the next part of the lab, I needed to install pystache using the command pip install pystache. I used Ubuntu instead of my command prompt for this part of the lab.
+I started by running the command "cat say_hello.mustache" and it output the following:
+
+![$hello mustache terminal capture](https://github.com/cespejo15/EE322/blob/main/Lab6/sayhellomustache.PNG)
+
+Next, I ran the command, "cat say_hello.py" and received the following:
+
+![$say hello terminal capture](https://github.com/cespejo15/EE322/blob/main/Lab6/sayhellopy.PNG)
+
+Finally, I ran "python3 say_hello.py" and it output the below:
+
+![$py say hello terminal capture](https://github.com/cespejo15/EE322/blob/main/Lab6/pyhello.PNG)
