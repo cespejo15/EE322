@@ -37,7 +37,7 @@ The terminal then displays the following after refreshing:
 For the next part of the lab, I needed to install pystache using the command pip install pystache. I used Ubuntu instead of my command prompt for this part of the lab.
 I started by running the command "cat say_hello.mustache" and it output the following:
 
-![$hello mustache terminal capture](https://github.com/cespejo15/EE322/blob/main/Lab6/sayhellomustache.PNG)
+![$hello mustache terminal capture](https://github.com/cespejo15/EE322/blob/main/Lab6/hellomustache.PNG)
 
 Next, I ran the command, "cat say_hello.py" and received the following:
 
