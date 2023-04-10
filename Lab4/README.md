@@ -55,7 +55,7 @@ Afterwards I went into the settings.py file using the nano command:
 
 And I changed the file to look like this:
 
-![settings](https://github.com/cespejo15/EE322/blob/main/Lab4/settings1.PNG)
+![settings](https://github.com/cespejo15/EE322/blob/main/Lab4/settings2.PNG)
 
 Next, I tried to use the cp command to copy certain files to the stevens and myapp directories, but it was not working, so I just went into my file explorer and manually copied and pasted the desired files into their desired folders.
 I then made a templates folder and another myapp folder and copy-pasted the intended files into it:
