@@ -62,3 +62,4 @@ I then made a templates folder and another myapp folder and copy-pasted the inte
 
 ![templates](https://github.com/cespejo15/EE322/blob/main/Lab4/templatesmyapp.PNG)
 
+Next, I signed up for Google Maps Platform, received an API key, and insert my API key into the index.html file
