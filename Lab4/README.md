@@ -7,58 +7,58 @@ After the virtual environment was made, I knew it was safe to start using pip in
 
 $ pip3 -V outputs the following:
  
- ![pip3](https://github.com/cespejo15/EE322/blob/main/Lab3/-V.PNG)
+ ![pip3](https://github.com/cespejo15/EE322/blob/main/Lab4/-V.PNG)
  
 $ pip3 list outputs the following:
 
-![pip3 list](https://github.com/cespejo15/EE322/blob/main/Lab3/list.PNG)
+![pip3 list](https://github.com/cespejo15/EE322/blob/main/Lab4/list.PNG)
 
 I tried doing sudo pip3 install for the first installation, but sudo did not work since I was on my laptop, so I just used pip install
 
 $ pip3 install -U setuptools outputs the following:
 
-![setuptools](https://github.com/cespejo15/EE322/blob/main/Lab3/setuptools.PNG)
+![setuptools](https://github.com/cespejo15/EE322/blob/main/Lab4/setuptools.PNG)
 
 $ pip3 install -U django outputs the following:
 
-![django](https://github.com/cespejo15/EE322/blob/main/Lab3/django.PNG)
+![django](https://github.com/cespejo15/EE322/blob/main/Lab4/django.PNG)
 
 $ pip3 install -U djangorestframework outputs the following:
 
-![django rest framework](https://github.com/cespejo15/EE322/blob/main/Lab3/djangorestframework.PNG)
+![django rest framework](https://github.com/cespejo15/EE322/blob/main/Lab4/djangorestframework.PNG)
 
 $ pip3 install -U django-filter outputs the following:
 
-![filter](https://github.com/cespejo15/EE322/blob/main/Lab3/djangofilter.PNG)
+![filter](https://github.com/cespejo15/EE322/blob/main/Lab4/djangofilter.PNG)
 
 $ pip3 install -U markdown outputs the following:
 
-![markdown](https://github.com/cespejo15/EE322/blob/main/Lab3/markdown.PNG)
+![markdown](https://github.com/cespejo15/EE322/blob/main/Lab4/markdown.PNG)
 
 $ pip3 install -U requests outputs the following:
 
-![requests](https://github.com/cespejo15/EE322/blob/main/Lab3/requests.PNG)
+![requests](https://github.com/cespejo15/EE322/blob/main/Lab4/requests.PNG)
 
 After installing these packages, I opened the README.md file from the stevens project, and began starting the stevens Django project.
 
 I first started the Django project:
 
-![startproject](https://github.com/cespejo15/EE322/blob/main/Lab3/startprojectterminal.PNG)
+![startproject](https://github.com/cespejo15/EE322/blob/main/Lab4/startprojectterminal.PNG)
 
 I then started the Django app:
 
-![startapp](https://github.com/cespejo15/EE322/blob/main/Lab3/startapp.PNG)
+![startapp](https://github.com/cespejo15/EE322/blob/main/Lab4/startapp.PNG)
 
 Afterwards I went into the settings.py file using the nano command:
 
-![nano](https://github.com/cespejo15/EE322/blob/main/Lab3/nano.PNG)
+![nano](https://github.com/cespejo15/EE322/blob/main/Lab4/nano.PNG)
 
 And I changed the file to look like this:
 
-![settings_change](https://github.com/cespejo15/EE322/blob/main/Lab3/settings.PNG)
+![settings_change](https://github.com/cespejo15/EE322/blob/main/Lab4/settings.PNG)
 
 Next, I tried to use the cp command to copy certain files to the stevens and myapp directories, but it was not working, so I just went into my file explorer and manually copied and pasted the desired files into their desired folders.
 I then made a templates folder and another myapp folder and copy-pasted the intended files into it:
 
-![templates](https://github.com/cespejo15/EE322/blob/main/Lab3/templatesmyapp.PNG)
+![templates](https://github.com/cespejo15/EE322/blob/main/Lab4/templatesmyapp.PNG)
 
