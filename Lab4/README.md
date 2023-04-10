@@ -86,8 +86,16 @@ $ python manage.py runserver
 
 This started the server and I was able to navigate to http://127.0.0.1:8000/admin, login with my username and password I created, and entered in to receive the following screen:
 
-![server](https://github.com/cespejo15/EE322/blob/main/Lab4/server.PNG)
+![server](https://github.com/cespejo15/EE322/blob/main/Lab4/server2.PNG)
 
-There were no visible options to change temperature or latitude like the instructions ask, and I'm unsure why but I was able to run the server and go to the app which gave the following:
+I entered in the following temperature data:
+
+![temperature](https://github.com/cespejo15/EE322/blob/main/Lab4/temperature.PNG)
+
+After hitting save, I was sent to this screen:
+
+![servertemp](https://github.com/cespejo15/EE322/blob/main/Lab4/servertemp.PNG)
+
+Then, I went to the app at http://127.0.0.1:8000 and received the following:
 
 ![app](https://github.com/cespejo15/EE322/blob/main/Lab4/app.PNG)
