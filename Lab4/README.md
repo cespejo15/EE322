@@ -63,3 +63,31 @@ I then made a templates folder and another myapp folder and copy-pasted the inte
 ![templates](https://github.com/cespejo15/EE322/blob/main/Lab4/templatesmyapp.PNG)
 
 Next, I signed up for Google Maps Platform, received an API key, and insert my API key into the index.html file
+
+After this, I copied the favicon.ico file into the static folder. I then copied the .css and .js files into the myapp folder.
+
+Next, I executed the following commands:
+
+$ python manage.py makemigrations myapp
+
+![makemigrations](https://github.com/cespejo15/EE322/blob/main/Lab4/makemigrations.PNG)
+
+$ python manage.py migrate
+
+![migrate](https://github.com/cespejo15/EE322/blob/main/Lab4/migrate.PNG)
+
+$ python manage.py createsuperuser
+
+![createsuperuser](https://github.com/cespejo15/EE322/blob/main/Lab4/createsuperuser.PNG)
+
+After running these commands, I was able to start running the Django server with the following command:
+
+$ python manage.py runserver
+
+This started the server and I was able to navigate to http://127.0.0.1:8000/admin, login with my username and password I created, and entered in to receive the following screen:
+
+![server](https://github.com/cespejo15/EE322/blob/main/Lab4/server.PNG)
+
+There were no visible options to change temperature or latitude like the instructions ask, and I'm unsure why but I was able to run the server and go to the app which gave the following:
+
+![app](https://github.com/cespejo15/EE322/blob/main/Lab4/app.PNG)
