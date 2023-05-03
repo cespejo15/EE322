@@ -366,4 +366,4 @@ cespejo@DESKTOP-757GQA6:~/iot/lesson8$ python3 traffic.py
    macro avg       0.93      0.94      0.93        67
 weighted avg       0.94      0.94      0.94        67
 
-### I then proceeded with the Keras and Tensorflow commands as follows: ###
+### I then proceeded with the Keras and Tensorflow commands as follows: ### 
