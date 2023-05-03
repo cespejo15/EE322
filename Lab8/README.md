@@ -1,6 +1,5 @@
 # Lab 8 #
-### For Lab 8, I am learning about Data Analysis. The first part of this lab requires me to install a bunch of python packages. So I open Ubuntu, which I already
-have installed and tried creating a virtual environemnt, although it did not work for me, so I just proceeded with installing the desired packages: ###
+### For Lab 8, I am learning about Data Analysis. The first part of this lab requires me to install a bunch of python packages. So I open Ubuntu, which I already have installed and tried creating a virtual environemnt, although it did not work for me, so I just proceeded with installing the desired packages: ###
 ```
 sudo pip3 install numpy scipy scikit-learn matplotlib pandas tensorflow keras
 [sudo] password for cespejo:
