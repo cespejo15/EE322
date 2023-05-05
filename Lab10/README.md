@@ -418,7 +418,7 @@ Press CTRL+C to quit
 ### After navigating to http://127.0.0.1:5000/, I received: ###
 ![image](https://user-images.githubusercontent.com/91222019/236383298-1113d492-297a-4c37-9747-4c2ac942de1e.png)
 
-### I put some content, my name and hit post to receive the screen: ###
+### I put some content and my name then hit post to receive the screen: ###
 ![image](https://user-images.githubusercontent.com/91222019/236383467-f681737a-44f6-4b07-ae1c-6c651a6b5182.png)
 
 ### Finally, after selecting the resync button, the site updates to the following: ###
