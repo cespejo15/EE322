@@ -385,4 +385,42 @@ Press CTRL+C to quit
 ### On terminal 2, I executed the desired code and got the following: ###
 ![image](https://user-images.githubusercontent.com/91222019/236382330-b3d3dd0b-459e-444a-8ca5-ea610339e60d.png)
 
+### Next, for the Python blockchain app, I went on my terminal 1 and did the following: ###
+### First, I uncommented the last line of node_server.py: ###
+![image](https://user-images.githubusercontent.com/91222019/236382908-04eb383c-1076-450b-a46f-543cb32b4f93.png)
+### Next, I ran node_server.py and received the following: ###
+```
+C:\Users\cesar\OneDrive - stevens.edu\Spring 2023 (3rd Year)\EE-322 D6\iot\lesson10\python_blockchain_app>python node_server.py
+ * Serving Flask app 'node_server'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:8000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 130-722-559
+ ```
+ ### In terminal 2, I executed the desired commands and received the following: ###
+ ```
+ C:\Users\cesar\OneDrive - stevens.edu\Spring 2023 (3rd Year)\EE-322 D6\iot\lesson10>cd python_blockchain_app
+
+C:\Users\cesar\OneDrive - stevens.edu\Spring 2023 (3rd Year)\EE-322 D6\iot\lesson10\python_blockchain_app>python run_app.py
+ * Serving Flask app 'app'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 130-722-559
+127.0.0.1 - - [05/May/2023 01:25:53] "GET / HTTP/1.1" 200 -
+```
+### After navigating to http://127.0.0.1:5000/, I received: ###
+![image](https://user-images.githubusercontent.com/91222019/236383298-1113d492-297a-4c37-9747-4c2ac942de1e.png)
+
+### I put some content, my name and hit post to receive the screen: ###
+![image](https://user-images.githubusercontent.com/91222019/236383467-f681737a-44f6-4b07-ae1c-6c651a6b5182.png)
+
+### Finally, after selecting the resync button, the site updates to the following: ###
+![image](https://user-images.githubusercontent.com/91222019/236383539-67a599d1-3dda-4818-a3d1-481ae87d068e.png)
 
